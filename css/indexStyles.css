@@ -178,7 +178,7 @@ nav>ul>li>a:hover, nav>ul>li>button:hover {
     top: 40px;
     width: 80vw;
     height: 100vh;
-    background-color: rgba(0, 0, 0);
+    background-color: black;
   }
   nav>ul>li {
     display: list-item;
